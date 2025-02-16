@@ -48,15 +48,20 @@ Welcome to **Minitalk**, where we send messages **bit by bit** using **pure UNIX
 
 
 ## 🛠️ **Installation & Usage**  
-1️⃣ Clone the repo  
+1️⃣ Clone the repo
+
 git clone https://github.com/the-snowflake-16/minitalk.git
+
 cd minitalk
 
 2️⃣ Compile
+
 make
 
 3️⃣ Run the server
+
 ./server
 
 4️⃣ Send a message from the client
+
 ./client <server_pid> "🌨️🌨️🌨️🌨️🌨️🌨️🌨️ Hello, Minitalk! ❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️"
