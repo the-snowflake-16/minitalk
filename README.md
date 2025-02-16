@@ -45,17 +45,11 @@ Welcome to **Minitalk**, where we send messages **bit by bit** using **pure UNIX
 
 ---
 
-📂 minitalk/
- ├── 📄 client.c      # Client program
- ├── 📄 server.c      # Server program
- ├── 📄 minitalk.h    # Header file
- ├── 📄 Makefile      # Compilation script
- ├── 📄 README.md     # This file!
 
 
 ## 🛠️ **Installation & Usage**  
 1️⃣ Clone the repo  
-git clone https://github.com/yourusername/minitalk.git
+git clone https://github.com/the-snowflake-16/minitalk.git
 cd minitalk
 
 2️⃣ Compile
@@ -65,9 +59,4 @@ make
 ./server
 
 4️⃣ Send a message from the client
-./client <server_pid> "Hello, Minitalk!"
-
-❄️ Snowflake Aesthetic ❄️
-🌨️🌨️🌨️🌨️🌨️🌨️🌨️  
-❄️  Minitalk: Signals Only!  ❄️  
-🌨️🌨️🌨️🌨️🌨️🌨️🌨️  
+./client <server_pid> "🌨️🌨️🌨️🌨️🌨️🌨️🌨️ Hello, Minitalk! ❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️"
