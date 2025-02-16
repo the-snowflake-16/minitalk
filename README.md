@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Minitalk%20Project&fontSize=30&desc=Let%20it%20snow!%20❄️&descAlign=70"/>
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Ready-green?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Signals](https://img.shields.io/badge/Signals-SIGUSR1/SIGUSR2-red?style=for-the-badge)
